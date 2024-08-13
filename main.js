@@ -7,3 +7,8 @@ const func = () => {
 const func2 = () => {
     console.log("This is second function");
 }
+
+const func3 = () => {
+    console.log("This is third function");
+}
+const name1 = "Divva";
