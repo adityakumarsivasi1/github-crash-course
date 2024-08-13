@@ -12,3 +12,8 @@ const func3 = () => {
     console.log("This is third function");
 }
 const name1 = "Divva";
+const func4 = () => {
+    console.log("This is foruth function");
+}
+const name2 = "Divva2";
+const name3 = "Divva2";
